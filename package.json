@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://DengsongWang.github.io/07013125",
+  "homepage": "https://DengsongWang.github.io/s5",
   "private": true,
   "dependencies": {
     "@bit/nexxtway.react-rainbow.date-picker": "file:./components/date-picker",
